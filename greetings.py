@@ -10,5 +10,6 @@ if birth_month == 'August':
 # today = date.today()
 # current_month = today.month
 
+print(f"There are {len(name)} letteres in your name")
 
 
